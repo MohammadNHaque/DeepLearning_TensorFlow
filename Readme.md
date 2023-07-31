@@ -1,9 +1,9 @@
 # Deep Learning with Python: Neural Networks (complete tutorial)
-## Build, Plot & Explain Artificial Neural Networks with TensorFlow
 
-By: Mauro Di Pietro; 
+
+<!-- By: Mauro Di Pietro; 
 Published in: [Towards Data Science](https://towardsdatascience.com/deep-learning-with-python-neural-networks-complete-tutorial-6b53c0b06af0);
-Date: Dec 18, 2021
+Date: Dec 18, 2021 -->
 
 # Setup
 For this tutorial, we will use `TensorFlow` and `Keras`.
@@ -45,9 +45,9 @@ In addition to those packages, it is recommened (optional) to install `ipywidget
 (envPyTensorFlow) $ pip install ipywidgets
 ```
 
-We need to install teh following packages if we want to visualise the Model using `TensorFlow` util library:
+We need to install the following packages if we want to visualise the Model using `TensorFlow` util library:
 ```bash
 (envPyTensorFlow) $ pip install pydot
 (envPyTensorFlow) $ sudo apt install graphviz
 ```
-## Now Use the Installed Packages to [Design the Neural network](py_DL_TF_NeuralNetwork.ipynb)
+## Now [Build, Plot & Explain Artificial Neural Networks with TensorFlow](py_DL_TF_NeuralNetwork.ipynb)
